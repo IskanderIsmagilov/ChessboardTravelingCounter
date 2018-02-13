@@ -1,6 +1,6 @@
 using System;
 //string input represents start and finish points. For example "(1 1)(3 3)".
-namespace Namespace1
+namespace ChessboardTravelingCounter
 {
     class MainClass
     {
